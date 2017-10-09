@@ -1,0 +1,20 @@
+/OutPut/
+/Prj/
+
+#Prerequisites
+*.d
+
+#compile object files
+*.slo
+*.lo
+*.o
+*.obj
+
+#precompiled headers
+*.gch
+*.pch
+
+#compiled dynamic libraries
+*.so
+*.dylib
+*.dll
